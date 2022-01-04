@@ -1,6 +1,6 @@
 {
   "name": "imagekit-media-library-widget",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript plugin for using Imagekit Media Library Widget",
   "main": "dist/imagekit-media-library-widget.cjs.js",
   "module": "dist/imagekit-media-library-widget.esm.js",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imagekit-developer/embeddable-media-library.git"
+    "url": "git@github.com:drewrawitz/embeddable-media-library.git"
   },
   "keywords": [
     "imagekit",
